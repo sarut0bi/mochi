@@ -1,0 +1,17 @@
+{
+  "name": "mochi",
+  "version": "0.0.1",
+  "description": "Axios (API) wrapper for E2E testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarut0bi",
+  "license": "MIT",
+  "keywords": [
+    "API",
+    "testing",
+    "axios",
+    "E2E"
+  ]
+}
